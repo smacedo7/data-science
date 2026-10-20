@@ -8,6 +8,8 @@ debugpy==1.8.22
 executing==2.2.1
 fonttools==4.66.1
 formulaic==1.2.2
+imbalanced-learn==0.14.2
+imblearn==0.0
 interface_meta==2.0.1
 ipykernel==7.4.0
 ipython==9.17.1
@@ -41,6 +43,7 @@ scikit-learn==1.9.1
 scipy==1.18.1
 seaborn==0.13.2
 six==1.17.0
+sklearn-compat==0.1.6
 stack-data==0.6.3
 statsmodels==0.15.0
 threadpoolctl==3.7.0
